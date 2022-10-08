@@ -1,5 +1,5 @@
-                                       ### Hi there 👋
-                                  
+                                       Olá, me chamo Edilson!
+                                       
                                        * Atualmente estou aprendendo sobre JavaScript, ReactJs e TypeScrip
                                        * Me Pergunte sobre tecnologia
 
